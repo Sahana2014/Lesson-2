@@ -1,0 +1,5 @@
+print("Hello python! \n Good evening")
+print(5)
+print("Hi",4) 
+print("Python", end="*")
+print("is the best")
